@@ -1,0 +1,5 @@
+FindKey
+
+Q. You have given three inputs input1,input2,input3.
+    the value of key will be:
+    key -> (Sum of largest digits of all three inputs) - (Sum of smallest digits of all three inputs)

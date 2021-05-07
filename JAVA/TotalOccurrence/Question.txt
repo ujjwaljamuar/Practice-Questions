@@ -1,0 +1,13 @@
+Q. Given two integer numbers input1 and input2 , find the total number of occurrences of input1 in a series of 
+   natural numbers from 0 till input2.
+
+   input1 will be within 1-9
+   input2 will be within 1-100
+
+   Example 
+   input1=2
+   input2=20
+
+   output=3
+
+   
